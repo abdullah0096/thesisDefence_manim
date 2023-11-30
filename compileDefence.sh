@@ -1,0 +1,1 @@
+manim -qh defence.py def_title0 def_scene1 def_nutshell2 def_EC3_1 def_EC3_1_1 def_EC3_2 def_EC3_3 def_LV4_1 def_LV4_3 def_LV4_4 def_impl5 def_minor6 def_APM7 def_conclusion8 def_questions9
